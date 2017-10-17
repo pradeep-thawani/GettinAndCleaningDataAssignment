@@ -1,5 +1,5 @@
 Steps:
-
+Pre req:  extract the zip file UCI HAR Dataset.zip file in the current working directory.
 1) Create test Data set
 	- Read the data set from X_test.txt
 	- Read Features.txt and use it as column names for the test data set
