@@ -1,0 +1,9 @@
+Variable Names:
+testData:		Data frame containing test data set
+trainData:		Data frame containing train data set
+mixedData:		Data frame obtained after merging train and test data frames
+filteredData:	Data frame obtained after extracting the measurements on the mean and standard deviation
+Data:			Tidy Data frame obtained containing the average of each variable for each activity and each subject.
+
+Summaries used:
+	Summarized 'filteredData' data frame to calculate mean of all the columns by grouping based on subjectid and activityid
